@@ -1,0 +1,3 @@
+[submodule "SubForSubTest"]
+	path = SubForSubTest
+	url = https://github.com/sthalbe/SubForSubTest.git
